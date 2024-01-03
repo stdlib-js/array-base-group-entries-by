@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/array-base-group-entries-by",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Group element entries according to an indicator function.",
   "license": "Apache-2.0",
   "author": {
