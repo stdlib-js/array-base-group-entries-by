@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import groupEntriesBy from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-group-entries-by@esm/index.mjs';
+import groupEntriesBy from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-group-entries-by@v0.1.0-esm/index.mjs';
 ```
 
 #### groupEntriesBy( x, indicator\[, thisArg] )
@@ -140,7 +140,7 @@ var cnt = context.count;
 
 import discreteUniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-discrete-uniform@esm/index.mjs';
 import take from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-take@esm/index.mjs';
-import groupEntriesBy from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-group-entries-by@esm/index.mjs';
+import groupEntriesBy from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-group-entries-by@v0.1.0-esm/index.mjs';
 
 function indicator( v ) {
     // Use the first letter of each element to define groups:
