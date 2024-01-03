@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import groupEntriesBy from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-group-entries-by@deno/mod.js';
+import groupEntriesBy from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-group-entries-by@v0.1.0-deno/mod.js';
 ```
 
 #### groupEntriesBy( x, indicator\[, thisArg] )
@@ -135,7 +135,7 @@ var cnt = context.count;
 ```javascript
 import discreteUniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-discrete-uniform@deno/mod.js';
 import take from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-take@deno/mod.js';
-import groupEntriesBy from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-group-entries-by@deno/mod.js';
+import groupEntriesBy from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-group-entries-by@v0.1.0-deno/mod.js';
 
 function indicator( v ) {
     // Use the first letter of each element to define groups:
