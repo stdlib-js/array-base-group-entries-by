@@ -152,7 +152,7 @@ var cnt = context.count;
 
 ```javascript
 var discreteUniform = require( '@stdlib/random-array-discrete-uniform' );
-var take = require( '@stdlib/array-base-take' );
+var take = require( '@stdlib/array-base-take-indexed' );
 var groupEntriesBy = require( '@stdlib/array-base-group-entries-by' );
 
 function indicator( v ) {
@@ -236,8 +236,8 @@ Copyright &copy; 2016-2024. The Stdlib [Authors][stdlib-authors].
 [npm-image]: http://img.shields.io/npm/v/@stdlib/array-base-group-entries-by.svg
 [npm-url]: https://npmjs.org/package/@stdlib/array-base-group-entries-by
 
-[test-image]: https://github.com/stdlib-js/array-base-group-entries-by/actions/workflows/test.yml/badge.svg?branch=main
-[test-url]: https://github.com/stdlib-js/array-base-group-entries-by/actions/workflows/test.yml?query=branch:main
+[test-image]: https://github.com/stdlib-js/array-base-group-entries-by/actions/workflows/test.yml/badge.svg?branch=v0.2.0
+[test-url]: https://github.com/stdlib-js/array-base-group-entries-by/actions/workflows/test.yml?query=branch:v0.2.0
 
 [coverage-image]: https://img.shields.io/codecov/c/github/stdlib-js/array-base-group-entries-by/main.svg
 [coverage-url]: https://codecov.io/github/stdlib-js/array-base-group-entries-by?branch=main
