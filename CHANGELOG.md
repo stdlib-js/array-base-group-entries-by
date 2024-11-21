@@ -2,6 +2,50 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2024-11-21)
+
+<section class="bug-fixes">
+
+### Bug Fixes
+
+-   [`844c9bb`](https://github.com/stdlib-js/stdlib/commit/844c9bb4e0ecb67410bb11c774341ea9d68167f7) - resolve TypeScript errors
+
+</section>
+
+<!-- /.bug-fixes -->
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`844c9bb`](https://github.com/stdlib-js/stdlib/commit/844c9bb4e0ecb67410bb11c774341ea9d68167f7) - **fix:** resolve TypeScript errors _(by Athan Reines)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Athan Reines
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.2.2">
 
 ## 0.2.2 (2024-07-29)
